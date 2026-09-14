@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9b75f3d3-77b5-4b5a-9dde-5d5878125cf5",
+  "name": "lilspook_tiles",
+  "symbol": "tileset_lilspook_tiles",
+  "width": 8,
+  "height": 13,
+  "imageWidth": 64,
+  "imageHeight": 104,
+  "filename": "lilspook_tiles.png"
+}
