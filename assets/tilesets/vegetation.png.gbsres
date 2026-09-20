@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "da63a6de-9f14-495e-98ca-aa5514d89f82",
+  "name": "vegetation",
+  "symbol": "tileset_vegetation",
+  "width": 16,
+  "height": 8,
+  "imageWidth": 128,
+  "imageHeight": 64,
+  "filename": "vegetation.png"
+}

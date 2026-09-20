@@ -3,11 +3,11 @@
   "id": "42ef073d-22ae-4ed6-897e-7c8993eeb1ba",
   "name": "boss-fight",
   "symbol": "bg_boss_fight",
-  "tileColors": "",
+  "tileColors": "00a00+",
   "filename": "boss-fight.png",
   "width": 20,
-  "height": 80,
+  "height": 128,
   "imageWidth": 160,
-  "imageHeight": 640,
+  "imageHeight": 1024,
   "autoColor": true
 }
