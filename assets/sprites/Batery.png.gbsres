@@ -1,0 +1,210 @@
+{
+  "_resourceType": "sprite",
+  "id": "fe0f4167-ecd8-4119-b279-59ab217a0fe8",
+  "name": "Batery",
+  "symbol": "sprite_batery",
+  "states": [
+    {
+      "id": "73bf1995-85b0-4008-91e8-18a57ff59654",
+      "name": "",
+      "animationType": "multi",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "b4b4ee0e-93a1-4025-9504-0f80437847ab",
+          "frames": [
+            {
+              "id": "58188f5f-da59-4bb8-ac2d-c71beab0ecbc",
+              "tiles": [
+                {
+                  "id": "239d5e96-39fa-40d1-9864-5e00ed385945",
+                  "x": 1,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "9f18e2eb-312a-4dba-908b-31f2e4f5f5bc",
+                  "x": 9,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3ede8c82-51b1-4871-8dc1-b75ab29ff08e",
+          "frames": [
+            {
+              "id": "a96e1207-3aa3-4bb4-be09-926b1ca11eb2",
+              "tiles": [
+                {
+                  "id": "4849c9b0-84e5-4a7c-8977-4e8f60adccff",
+                  "x": 1,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "e678aa35-fdfe-4580-8268-b25e808a4c4e",
+                  "x": 9,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b45afa52-2f1a-492e-a539-cb8d9da4e20e",
+          "frames": [
+            {
+              "id": "499a13ec-6c45-4551-932a-c10e562da8c7",
+              "tiles": [
+                {
+                  "id": "5ca32bdb-f5e5-4316-b143-fe5adb219077",
+                  "x": 1,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "253a613b-42d6-4a98-88b8-d525c44bfeae",
+                  "x": 9,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c6757ba8-c34e-4f11-b305-7f589f2d0741",
+          "frames": [
+            {
+              "id": "5d06d609-ae9a-4274-bde5-243ae3e72d28",
+              "tiles": [
+                {
+                  "id": "2160fe51-c3e9-4d87-a92d-e933dfa0cd05",
+                  "x": 1,
+                  "y": 0,
+                  "sliceX": 48,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "9c921326-3de0-4463-bbb9-5f95bc817315",
+                  "x": 9,
+                  "y": 0,
+                  "sliceX": 56,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9988de6c-5526-41b9-81c4-d6796ff6e753",
+          "frames": [
+            {
+              "id": "042d17a1-e0b7-4200-8094-21b30448b2a5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7c863016-572a-407b-8c42-c7d5bdbc2c1e",
+          "frames": [
+            {
+              "id": "46cdc187-9bb8-4045-94f0-1826d52a16e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ab9d6cfc-b1d7-4af0-80bd-ced852a98d0b",
+          "frames": [
+            {
+              "id": "ab9a74f7-6e35-48ef-873f-911ca683b579",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7c1d5637-ed4d-401e-9af6-1c8811a5735f",
+          "frames": [
+            {
+              "id": "d5bdc6d7-33af-4e48-a5f8-f0e6c3cea7d9",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 5,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Batery.png",
+  "width": 64,
+  "height": 16,
+  "checksum": "63203d2633eb9d504f2ed10ec109bdd926a51d65"
+}

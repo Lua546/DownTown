@@ -15,15 +15,23 @@
     },
     {
       "id": "SHOOTER_MOVEMENT_TYPE",
-      "value": "MOVEMENT_TYPE_LOCK_PERPENDICULAR"
+      "value": "MOVEMENT_TYPE_FREE"
     },
     {
       "id": "SHOOTER_TRIGGER_ACTIVATION",
-      "value": "ON_PLAYER_COLLISION"
+      "value": "ON_SCREEN_ENTER"
     },
     {
       "id": "SHOOTER_WALL_COLLISION_GROUP",
       "value": "COLLISION_GROUP_NONE"
+    },
+    {
+      "id": "plat_blank_grav",
+      "value": 0
+    },
+    {
+      "id": "PLATFORM_BLANK_ANIM",
+      "value": ""
     }
   ]
 }

@@ -1,5 +1,21 @@
 {
   "_resourceType": "variables",
-  "variables": [],
+  "variables": [
+    {
+      "id": "0",
+      "name": "Boss Phase",
+      "symbol": "var_boss_phase"
+    },
+    {
+      "id": "1",
+      "name": "Boss Can Shoot",
+      "symbol": "var_boss_can_shoot"
+    },
+    {
+      "id": "2",
+      "name": "Batery Level",
+      "symbol": "var_batery_level"
+    }
+  ],
   "constants": []
 }

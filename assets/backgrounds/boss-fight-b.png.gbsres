@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e72f4a7d-36ad-4736-b225-529c086695ae",
+  "name": "boss-fight-b",
+  "symbol": "bg_boss_fight_b",
+  "tileColors": "",
+  "filename": "boss-fight-b.png",
+  "width": 20,
+  "height": 80,
+  "imageWidth": 160,
+  "imageHeight": 640,
+  "autoColor": true
+}
