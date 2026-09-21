@@ -1,0 +1,11 @@
+{
+  "_resourceType": "music",
+  "id": "9e3321f6-ac4b-4e58-9651-e44507891a86",
+  "name": "Action/Tense Boss Battle",
+  "symbol": "song_action_tense_boss_batt",
+  "settings": {
+    "disableSpeedConversion": false
+  },
+  "filename": "Action/Tense Boss Battle.mod",
+  "type": "mod"
+}

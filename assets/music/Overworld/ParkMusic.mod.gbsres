@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "b4852ba8-5f3d-41cc-b724-9e03e20247f2",
+  "name": "Overworld/ParkMusic",
+  "symbol": "song_overworld_parkmusic",
+  "settings": {},
+  "filename": "Overworld/ParkMusic.mod",
+  "type": "mod"
+}

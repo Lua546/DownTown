@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "209fbab8-d784-4e6b-ab67-a7eaed88061f",
+  "name": "SFX/Pickup_Coin",
+  "symbol": "song_sfx_pickup_coin",
+  "settings": {},
+  "filename": "SFX/Pickup_Coin.mod",
+  "type": "mod"
+}

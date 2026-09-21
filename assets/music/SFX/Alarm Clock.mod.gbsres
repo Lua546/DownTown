@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "0e3b0313-9316-43f2-a908-ad5e390f7b82",
+  "name": "SFX/Alarm Clock",
+  "symbol": "song_sfx_alarm_clock",
+  "settings": {},
+  "filename": "SFX/Alarm Clock.mod",
+  "type": "mod"
+}

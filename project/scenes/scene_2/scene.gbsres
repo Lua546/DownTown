@@ -25,7 +25,15 @@
   "symbol": "scene_2",
   "x": 80,
   "y": 56,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "9947983c-3b64-4a88-b888-95202a2c9693"
+      },
+      "id": "67ef08f9-c5e9-42ec-add5-a4fb3c801651"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [

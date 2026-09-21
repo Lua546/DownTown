@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "b190d4c8-e4bd-4c5e-9965-ddc1cd10f7da",
+  "name": "SFX/Missile Alert",
+  "symbol": "song_sfx_missile_alert",
+  "settings": {},
+  "filename": "SFX/Missile Alert.mod",
+  "type": "mod"
+}

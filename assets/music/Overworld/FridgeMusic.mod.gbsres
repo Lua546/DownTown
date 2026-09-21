@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "14a356c2-99aa-45a3-bf9f-39b520c3c302",
+  "name": "Overworld/FridgeMusic",
+  "symbol": "song_overworld_fridgemusic",
+  "settings": {},
+  "filename": "Overworld/FridgeMusic.mod",
+  "type": "mod"
+}

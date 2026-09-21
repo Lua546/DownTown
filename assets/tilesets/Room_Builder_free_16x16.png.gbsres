@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "4acd2055-5603-4ee9-89b4-5d08f2b62ae5",
+  "name": "Room_Builder_free_16x16",
+  "symbol": "tileset_room_builder_free_1",
+  "width": 34,
+  "height": 46,
+  "imageWidth": 272,
+  "imageHeight": 368,
+  "filename": "Room_Builder_free_16x16.png"
+}

@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "8acba9b9-6ef0-4e07-9eb2-d2bd8585144e",
+  "name": "SFX/Clock",
+  "symbol": "song_sfx_clock",
+  "settings": {},
+  "filename": "SFX/Clock.mod",
+  "type": "mod"
+}

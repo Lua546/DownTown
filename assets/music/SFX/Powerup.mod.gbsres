@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "fe9c8da0-9f44-4f68-b4d2-984f9a3b82a0",
+  "name": "SFX/Powerup",
+  "symbol": "song_sfx_powerup",
+  "settings": {},
+  "filename": "SFX/Powerup.mod",
+  "type": "mod"
+}

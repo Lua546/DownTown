@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "f6e59885-a399-48a7-a7be-34a69968f442",
+  "name": "Interiors_free_16x16",
+  "symbol": "tileset_interiors_free_16x1",
+  "width": 32,
+  "height": 178,
+  "imageWidth": 256,
+  "imageHeight": 1424,
+  "filename": "Interiors_free_16x16.png"
+}
