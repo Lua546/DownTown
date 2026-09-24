@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "979ec0d0-a4ef-41f3-ba87-65c258295a9a",
+  "name": "phone",
+  "symbol": "sprite_phone",
+  "states": [
+    {
+      "id": "cfa62722-96e0-44ce-8406-47f9b1b7c51f",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "15014256-92c6-4b30-b2fc-db9aab73bfa9",
+          "frames": [
+            {
+              "id": "9658bcdf-b989-45f2-bd05-6fd027432329",
+              "tiles": [
+                {
+                  "id": "d5166b4d-34b2-40f3-bc2f-132c777d7a5b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 6,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "69cd7747-ceb0-4269-b87b-7db35cde8e70",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 6,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26ee177c-b18f-4c8b-9d02-c43c2d472604",
+          "frames": [
+            {
+              "id": "25cd1f5b-7423-4b64-86f3-eeed9e3c9042",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c03adbb2-fe6e-4219-8cd9-a43d930177c7",
+          "frames": [
+            {
+              "id": "70b0cd68-68fa-4c6a-87e7-66385d217cd9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f153a561-cef8-452c-9474-e609a4578411",
+          "frames": [
+            {
+              "id": "43b60744-eb5e-4bc4-a68c-c13531190c48",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a4cb4f9e-4956-47c1-8c18-6099ed793374",
+          "frames": [
+            {
+              "id": "4a9ec304-8663-4c4a-ab7d-f23e47378090",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8207b6fa-96be-4ecb-8739-2b2f9799373c",
+          "frames": [
+            {
+              "id": "c941b94d-30b3-48ab-8e07-0cb6b7429139",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8fe6dea5-f572-4f59-8138-601d1194c36d",
+          "frames": [
+            {
+              "id": "001e5d5f-f25e-4eb8-b19e-13787c97e422",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f920bd4e-7d52-4576-9746-0b80aa87e726",
+          "frames": [
+            {
+              "id": "96ff129b-dc94-4353-a4f2-04c1fcce166d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "phone.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "02ebcee36a431fbf3c0d3c11ee15f5f1abc097f2"
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "14b35303-5489-4229-a4ec-4f27a558391b",
+  "name": "IPS-inside",
+  "symbol": "bg_ips_inside",
+  "tileColors": "002900+",
+  "filename": "IPS-inside.png",
+  "width": 128,
+  "height": 82,
+  "imageWidth": 1024,
+  "imageHeight": 656,
+  "autoColor": true
+}

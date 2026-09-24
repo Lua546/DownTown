@@ -2,7 +2,7 @@
   "_resourceType": "scene",
   "id": "f2b82aa8-022d-4ad6-881f-56417bfa47d7",
   "_index": 0,
-  "name": "Scene 2",
+  "name": "Melany Boss Fight",
   "backgroundId": "42ef073d-22ae-4ed6-897e-7c8993eeb1ba",
   "tilesetId": "",
   "width": 20,
@@ -29,7 +29,7 @@
     {
       "command": "EVENT_MUSIC_PLAY",
       "args": {
-        "musicId": "9947983c-3b64-4a88-b888-95202a2c9693"
+        "musicId": "2b8035c7-b05d-4827-a9bb-9b9b06fbb5f8"
       },
       "id": "67ef08f9-c5e9-42ec-add5-a4fb3c801651"
     }
