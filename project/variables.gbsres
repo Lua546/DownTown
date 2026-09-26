@@ -15,6 +15,134 @@
       "id": "2",
       "name": "Batery Level",
       "symbol": "var_batery_level"
+    },
+    {
+      "id": "3",
+      "name": "constellationsCounter",
+      "symbol": "var_constellationscounter"
+    },
+    {
+      "id": "4",
+      "name": "Constellation ",
+      "symbol": "var_constellation_"
+    },
+    {
+      "id": "21",
+      "name": "selectedStar",
+      "symbol": "var_selectedstar"
+    },
+    {
+      "id": "c00b80c4-8ab5-4e4c-a210-83540561032d__L0",
+      "name": "Active",
+      "symbol": "var_active"
+    },
+    {
+      "id": "35aa7030-660d-4230-b74e-d01cfa98a12c__L0",
+      "name": "Active",
+      "symbol": "var_active_0"
+    },
+    {
+      "id": "f4124090-1f79-45d4-90f2-ba06ff7205db__L0",
+      "name": "Active",
+      "symbol": "var_active_1"
+    },
+    {
+      "id": "8395234b-8ae1-44da-8279-63c5d0576aa4__L0",
+      "name": "Active",
+      "symbol": "var_active_2"
+    },
+    {
+      "id": "285fdd62-5459-4d8e-9c46-e012ba34916b__L0",
+      "name": "Active",
+      "symbol": "var_active_3"
+    },
+    {
+      "id": "0fb0b79b-6aa4-4ef3-9776-59dbaff130ac__L0",
+      "name": "isActive",
+      "symbol": "var_isactive"
+    },
+    {
+      "id": "0aa35ebb-06aa-4ad4-83e6-1e17c848f481__L0",
+      "name": "Active",
+      "symbol": "var_active_5"
+    },
+    {
+      "id": "9d62c091-b01b-4d25-a42d-4aeeb69d8829__L0",
+      "name": "Active",
+      "symbol": "var_active_6"
+    },
+    {
+      "id": "ae67d731-65a4-4a17-9b6f-0a310111e28c__L0",
+      "name": "Active",
+      "symbol": "var_active_7"
+    },
+    {
+      "id": "001a7bab-b123-4077-9f72-7a05321bd550__L0",
+      "name": "Active",
+      "symbol": "var_active_8"
+    },
+    {
+      "id": "c562a5f4-6c31-4ad4-8f14-3f5c75f1cbf4__L0",
+      "name": "Active",
+      "symbol": "var_active_9"
+    },
+    {
+      "id": "966e747a-4148-4d54-ac23-1c2c0ae089d9__L0",
+      "name": "Active",
+      "symbol": "var_active_10"
+    },
+    {
+      "id": "0fb0b79b-6aa4-4ef3-9776-59dbaff130ac__L1",
+      "name": "isConnected",
+      "symbol": "var_isconnected"
+    },
+    {
+      "id": "5",
+      "name": "starConnections",
+      "symbol": "var_starconnections",
+      "flags": {
+        "flag1": "s6-s8",
+        "flag3": "s1-s5",
+        "flag5": "s1-s9",
+        "flag7": "s2-s3",
+        "flag9": "s2-s4",
+        "flag11": "s2-s7",
+        "flag13": "s3-s4",
+        "flag15": "s3-s7",
+        "flag2": "s4-s5",
+        "flag4": "s4-s6",
+        "flag6": "s5-s6",
+        "flag8": "s5-s9",
+        "flag10": "s6-s10",
+        "flag12": "s7-s8",
+        "flag14": "s8-s10",
+        "flag16": "s9-s10"
+      }
+    },
+    {
+      "id": "43f67ff1-82dd-4e4a-a014-cb0695d4b4a1__L0",
+      "name": "isActive",
+      "symbol": "var_isactive_0"
+    },
+    {
+      "id": "43f67ff1-82dd-4e4a-a014-cb0695d4b4a1__L1",
+      "name": "isConnected",
+      "symbol": "var_isconnected_0"
+    },
+    {
+      "id": "6",
+      "name": "foundConstellations",
+      "symbol": "var_foundconstellations",
+      "flags": {
+        "flag1": "Cruz del Sur",
+        "flag2": "La Mosca",
+        "flag3": "El Cangrejo"
+      }
+    },
+    {
+      "id": "7",
+      "name": "s1-s2",
+      "symbol": "var_s1_s2"
     }
   ],
   "constants": []

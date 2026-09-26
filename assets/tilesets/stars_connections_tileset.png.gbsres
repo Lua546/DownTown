@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "2070c978-13ea-4532-a737-22e6f6417606",
+  "name": "stars_connections_tileset",
+  "symbol": "tileset_stars_connections_t",
+  "width": 15,
+  "height": 5,
+  "imageWidth": 120,
+  "imageHeight": 40,
+  "filename": "stars_connections_tileset.png"
+}

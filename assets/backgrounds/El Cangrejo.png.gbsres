@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "44c0c0dc-af80-4fa3-ba65-7991a24f976c",
+  "name": "El Cangrejo",
+  "symbol": "bg_el_cangrejo",
+  "tileColors": "",
+  "filename": "El Cangrejo.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0db56a50-89af-425e-8bf9-f2b161526bc1",
+  "name": "La Mosca",
+  "symbol": "bg_la_mosca",
+  "tileColors": "",
+  "filename": "La Mosca.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

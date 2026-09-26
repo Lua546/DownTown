@@ -1,0 +1,41 @@
+{
+  "_resourceType": "scene",
+  "id": "f97b4e6a-d90d-49a4-8be8-e10f7a8fd82d",
+  "_index": 2,
+  "name": "Constellations",
+  "backgroundId": "f5c00b3a-cd3c-4312-93bb-e50a1fa9c02a",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "ae7794fc-919c-420b-a5f7-9349cda00d43",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "spritePaletteIds": [
+    "default-bg-6",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "default-bg-6",
+    "default-bg-3"
+  ],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_3",
+  "x": 2008,
+  "y": 1192,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

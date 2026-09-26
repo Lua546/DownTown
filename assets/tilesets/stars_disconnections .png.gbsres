@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "012ed139-c002-4cd5-9edd-6eff2327d126",
+  "name": "stars_disconnections ",
+  "symbol": "tileset_stars_disconnection",
+  "width": 15,
+  "height": 9,
+  "imageWidth": 120,
+  "imageHeight": 72,
+  "filename": "stars_disconnections .png"
+}
